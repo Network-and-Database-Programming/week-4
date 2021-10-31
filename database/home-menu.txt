@@ -2,3 +2,5 @@ System home menu
  1 ) Login
  2 ) Register
  3 ) Check Login Status
+
+ 4 ) Login as admin

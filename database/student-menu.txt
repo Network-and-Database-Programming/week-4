@@ -1,0 +1,7 @@
+System menu 4 Student
+ 1 ) Show all course
+ 2 ) Course details
+ 3 ) Check Login Status
+ 4 ) Logout
+
+ 5 ) Login as admin
