@@ -1,0 +1,7 @@
+System menu 4 admin
+ 1 ) Add new course
+ 2 ) Show all course
+ 3 ) Show details about course
+ 4 ) Check Login Status
+ 
+ 5 ) Logout
