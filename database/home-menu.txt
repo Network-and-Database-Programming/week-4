@@ -1,0 +1,4 @@
+System home menu
+ 1 ) Login
+ 2 ) Register
+ 3 ) Check Login Status
