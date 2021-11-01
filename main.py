@@ -37,6 +37,7 @@ def menu():
   opt = int(input("> ")[0])
   if CheckLogin( ) == False and status > 0:
     print("Sorry, you need login again")
+    Logout()
     return menu( )   
 
   if access == 0: # default 
