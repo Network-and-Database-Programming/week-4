@@ -3,6 +3,8 @@ import sqlite3 as lite
 #def main( ):
 #   AddNewCourse()
 
+# e ray is handsome
+
 def All(): #show all course
     con = lite.connect('CourseSystem.db')
     cur = con.cursor()
